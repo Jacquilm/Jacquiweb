@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=UnifrakturCook:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&display=swap');
+*{
+    margin:0;
+}
+
+body{
+    background-color: rgb(253, 183, 224);
+    height: 100vh;
+}
+
+.card{
+    border: rgb(248, 154, 240) 3px solid;
+  background-color: rgb(255, 216, 245);
+  width: 30%; ;
+  height: 385px;
+  text-align: center;
+  border-radius: 5%;
+}
+
+.titulo_index{
+    text-align: center;
+    font-family: "Great Vibes", cursive;
+    color: rgb(252, 247, 252);
+    margin-top: 20px;
+    font-size: 4rem;
+}
+
+.footer_piePagina{
+    text-align: center;
+    color: rgb(255, 69, 193);
+}
+
+.figura_flor{
+    width: 50%;
+    margin-top: 20px;
+}
+
+.card_flor{
+    font-family: "UnifrakturCook", cursive;
+    
+}
+.card_titulos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card_numero{
+   margin: 0 5px 0 0;
+   background-color: rgb(237, 150, 248);
+   width: 50px;
+   height: 20px;
+   border-radius: 5px;
+   color: white;
+   font-family: "UnifrakturCook", cursive;
+}
+.card_tipo1{
+    background-color: rgb(247, 165, 212);
+    margin: 0 5px 0 0;
+    width: 100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    font-family: "Playfair Display", serif;
+    border-radius: 20px;
+}
+.card_tipo2{
+    background-color: rgb(255, 125, 186);
+    margin: 0 5px 0 0;
+    width: 100px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    font-family: "Playfair Display", serif;
+    border-radius: 20px;
+}
+.contenedor_cartas{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 0 50px 0;
+
+}
+
+.c1{
+    margin: 0 0 50px 0;
+}
+.button1{
+    background-color: rgb(235, 112, 184);
+    color: white;
+    font-family: "UnifrakturCook", cursive;
+    margin: 0 5px 0 0;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgb(235, 112, 188) ;
+}
+.button2{
+    background-color: rgb(235, 112, 184);
+    color: white;
+    font-family: "UnifrakturCook", cursive;
+    margin: 0 5px 0 0;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgb(235, 112, 188) ;
+}
+.button3{
+    background-color: rgb(235, 112, 184);
+    color: white;
+    font-family: "UnifrakturCook", cursive;
+    margin: 0 5px 0 0;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgb(235, 112, 188) ;
+}
+.button4{
+    background-color: rgb(235, 112, 184);
+    color: white;
+    font-family: "UnifrakturCook", cursive;
+    margin: 0 5px 0 0;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgb(235, 112, 188) ;
+}
+.button5{
+    background-color: rgb(235, 112, 184);
+    color: white;
+    font-family: "UnifrakturCook", cursive;
+    margin: -2% 5px 0 0;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgb(235, 112, 188) ;
+}
+.button6{
+    background-color: rgb(235, 112, 184);
+    color: white;
+    font-family: "UnifrakturCook", cursive;
+    margin: 0 5px 0 0;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgb(235, 112, 188) ;
+}
